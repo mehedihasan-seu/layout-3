@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background: orange;
+    padding: 20px;
+}
+.header-nav{
+    background: yellow;
+}
+
+.center{
+    margin-top: 5px orange ;
+    height: 500px;
+    background: orange;
+    
+}
+
+.center-left{
+    background: yellow;
+    height: 98%;
+    width: 20%;
+    margin-left: 1.4%;
+    float: left;
+    margin-top: 5px;
+    text-align: center;
+}
+.center-right{
+    background: orange;
+    height: 100%;
+    width: 75%;
+    float: right;
+    margin-right: 20px;
+    
+}
+.center-top{
+    background: red;
+    height: 48%;
+    width: 100%;
+    margin-bottom: 10px;
+    
+
+}
+.article-left{
+    background: gold;
+    width: 48%;
+    height: 83%;
+    float:left;
+    margin-left: 1%;
+    border: 1px solid yellow;
+    
+
+}
+.part-1{
+    background: blue;
+    width: 70%;
+    height: 30%;
+    margin-left: 2%;
+    margin-top: 10px;
+    border: 2px solid yellow;
+    
+}
+.part-2{
+    background: fuchsia;
+    width: 70%;
+    height: 20%;
+    margin-left: 2%;
+    margin-top: 1%;
+    border: 2px solid yellow;
+}
+.part-3{
+    background: bisque;
+    width: 70%;
+    height: 20%;
+    margin-left: 2%;
+    margin-top: 1%;
+    float: left;
+    border: 2px solid yellow;
+
+}
+.article-right{
+    background: gold;
+    width: 48%;
+    height: 83%;
+    float:right;
+    margin-right: 1%;
+    border: 1px solid yellow;
+    
+}
+.right-1{
+    background: aquamarine;
+    width: 70%;
+    height: 80%;
+    margin-left: 2%;
+    margin-top: 1%;
+    border: 2px solid yellow;
+
+}
+.center-bottom{
+    background: red;
+    height: 50%;
+    width: 100%;
+}
+
+.article-1{
+    background: blue;
+    width: 20%;
+    height: 80%;
+    margin-left: 2%;
+    margin-top: 10px;
+    float: left;
+    border: 2px solid yellow;
+
+}
+.article-2{
+    background: rgba(231, 156, 64, 0.918);
+    width: 50%;
+    height: 80%;
+    margin-left: 2%;
+    margin-top: 10px;
+    float: left;
+    border: 2px solid yellow;
+}
+.article-3{
+    background: rgba(11, 159, 245, 0.918);
+    width: 20%;
+    height: 80%;
+    margin-left: 2%;
+    margin-top: 10px;
+    float: left;
+    border: 2px solid yellow;
+}
+
+
+.footer{
+    background: orange;
+    padding: 20px;
+    margin-top: 5px orange ;
+
+}
+.footer-nav{
+    background: yellow;
+}
