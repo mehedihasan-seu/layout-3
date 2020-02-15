@@ -9,9 +9,11 @@
 .header-nav{
     background: yellow;
 }
-
+body{
+    background:orange;
+}
 .center{
-    margin-top: 5px orange ;
+    margin-top: 5px;
     height: 500px;
     background: orange;
     
@@ -136,7 +138,7 @@
 .footer{
     background: orange;
     padding: 20px;
-    margin-top: 5px orange ;
+    margin-top: 5px;
 
 }
 .footer-nav{
